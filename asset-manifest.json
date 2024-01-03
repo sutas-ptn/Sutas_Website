@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sutas_Website/static/css/main.dd4a91be.css",
-    "main.js": "/Sutas_Website/static/js/main.7d76100d.js",
+    "main.css": "/Sutas_Website/static/css/main.f523fb9e.css",
+    "main.js": "/Sutas_Website/static/js/main.e47c2917.js",
     "static/js/787.7da95b79.chunk.js": "/Sutas_Website/static/js/787.7da95b79.chunk.js",
     "index.html": "/Sutas_Website/index.html",
-    "main.dd4a91be.css.map": "/Sutas_Website/static/css/main.dd4a91be.css.map",
-    "main.7d76100d.js.map": "/Sutas_Website/static/js/main.7d76100d.js.map",
+    "main.f523fb9e.css.map": "/Sutas_Website/static/css/main.f523fb9e.css.map",
+    "main.e47c2917.js.map": "/Sutas_Website/static/js/main.e47c2917.js.map",
     "787.7da95b79.chunk.js.map": "/Sutas_Website/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd4a91be.css",
-    "static/js/main.7d76100d.js"
+    "static/css/main.f523fb9e.css",
+    "static/js/main.e47c2917.js"
   ]
 }
