@@ -20,12 +20,12 @@ function About(){
 
                 <div className="hero min-h-screen bg-black">
                 <div className="hero-content flex-col gap-x-12 lg:flex-row">
-                    <img src={"Profile.jpg"} className="max-w-sm  md:max-w-lg rounded-lg shadow-2xl"alt="" />
+                    <img src={"Profile.jpg"} className="full  md:max-w-lg rounded-lg shadow-2xl"alt="" />
                     <div>
                         <div className="text-2xl text-white mb-4 ">
                             <p className="font-light"><span  className="text-orange-500 font-light ">Sutas</span> Pattanaworapongkul</p>
                         </div>
-                        <div className="text-white text-base md:text-xl">
+                        <div className="text-sm text-white text-base md:text-xl">
                             <p>สวัสดีครับ ผมชื่อ สุทัศน์ พัฒนวรพงศ์กุล ชื่อเล่น ทีน อายุ 23 ปี </p>
                             <p>สำเร็จการศึกษาจาก คณะครุศาสตร์อุตสาหกรรมและเทคโนโลยี </p>
                             <p>สาขาวิทยาการคอมพิวเตอร์ประยุกต์-มัลติมีเดีย </p>
