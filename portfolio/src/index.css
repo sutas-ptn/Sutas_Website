@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+    font-family: 'Prompt', sans-serif;
+    font-weight: 200;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+/*about*/
+.divider:before, .divider:after{
+    height: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #ef7104;
+    box-shadow:0 0 10px #ef7104, 0 0 40px #ef7104;
+}
+
+.divider:not(:empty){
+    gap: 5rem;
+}
+.text-orange-500{
+    color:#fff;
+    text-shadow: 0 0 5px #ef7104, 0 0 10px #ef7104, 0 0 20px #ef7104;
+}
+
+.colorglow{
+    color: #fff;
+    text-shadow: 0 0 5px #ef7104, 0 0 10px #ef7104, 0 0 20px #ef7104, 0 0 30px #ef7104;
+}
+.colorglow :hover{
+    color: #ef7104;
+    text-shadow: 0 0 10px #ef7104, 0 0 20px #ef7104, 0 0 30px #ef7104, 0 0 40px #ef7104, 0 0 50px #ef7104, 0 0 60px #ef7104, 0 0 70px #ef7104;
+}
+.fillglow{
+    fill: #fff;
+    filter: drop-shadow(2px 4px 6px #ef7104);
+    
+}
+.btglow ,.footerglow{
+    box-shadow:0 0 5px #ef7104, 0 0 10px #ef7104;
+}
+
+
+
+
+
+
