@@ -81,6 +81,7 @@ export default function Hero() {
                 <div className="space-y-2 py-6">
                   {navigation.map((item) => (
                     <a
+                      onClick={() => setMobileMenuOpen(false)}
                       key={item.name}
                       href={item.href}
                       className="-mx-3 block rounded-lg px-3 py-2 text-white font-normal leading-7  hover:bg-orange-500 duration-300"
